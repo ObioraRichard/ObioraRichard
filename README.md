@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ObioraRichard
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning bootstrap 5 javascript
-- 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me richardobiora24@gmail.com
 
 <!---
